@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import Welcome from "./pages/Welcome";
-import Portfolio from "./pages/Portfolio";
-import ProjectDetails from "./pages/ProjectDetails";
+import Welcome from "./Pages/welcome";
+import Portfolio from "./Pages/Portfolio";
+import ProjectDetails from "./Pages/ProjectDetails";
 import Achievements from "./Data/Achievements";
 
 function App() {
