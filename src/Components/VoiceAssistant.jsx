@@ -30,7 +30,7 @@ const VoiceAssistant = () => {
 
       try {
         const res = await fetch(
-          "http://localhost:5000/api/questions/ask",
+          "https://portfolio-2-myso.onrender.com/api/questions/ask",
           {
             method: "POST",
             headers: {
