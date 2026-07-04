@@ -1,4 +1,4 @@
-import webdesigning from "../assets/web designing.pdf"
+import webdesigning from "../assets/webdesigning.pdf"
 import debugging from "../assets/debugging.pdf"
 
 const Achievements = () => {
